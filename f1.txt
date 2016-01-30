@@ -1,2 +1,2 @@
 Git is quite interesting.
-I m standing on f1.txt (master branch)
+I m standing on f1.txt (dev branch)
